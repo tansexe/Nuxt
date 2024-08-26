@@ -1,5 +1,3 @@
-[![Nuxt banner](./.github/assets/banner.svg)](https://nuxt.com)
-
 # Nuxt
 
 <p>
